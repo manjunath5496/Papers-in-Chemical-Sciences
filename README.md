@@ -29,7 +29,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(16).pdf" style="text-decoration:none;">Retrofit of Distillation Columns Using Thermodynamic Analysis</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(17).pdf" style="text-decoration:none;">Effective Thermal Conductivity Estimates Of Particulate Mixtures</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(17).pdf" style="text-decoration:none;">The Development of Transition-State Theory</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(18).pdf" style="text-decoration:none;">Natural convection and solid phase combustion</a></li> 
 
@@ -56,7 +56,7 @@
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(30).pdf" style="text-decoration:none;">Thermodynamics and bioenergetics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(31).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(31).pdf" style="text-decoration:none;">A New System of Chemical Philosophy</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(32).pdf" style="text-decoration:none;">Effects of concentration and temperature on the coupled heat and mass transport in liquid mixtures</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(33).pdf" style="text-decoration:none;">Entropy generation in a rectangular packed duct with wall heat flux</a></li>                              
@@ -64,5 +64,42 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(34).pdf" style="text-decoration:none;">Thermoeconomics of seasonal latent heat storage system</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(35).pdf" style="text-decoration:none;">Solitary waves and supersonic reaction front in metastable solids</a></li> 
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(36).pdf" style="text-decoration:none;">On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(37).pdf" style="text-decoration:none;">A Theory of Natural Philosophy</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(38).pdf" style="text-decoration:none;">A New Form for the Electrolytic Dissociation Theory</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(39).pdf" style="text-decoration:none;">The Atom and the Molecule</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(40).pdf" style="text-decoration:none;">Some Remarks on the Concept of Acids and Bases</a></li> 
+   
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(41).pdf" style="text-decoration:none;">A Method of Geometrical Representation of the Thermodynamic Properties of Substances by Means of Surfaces</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(42).pdf" style="text-decoration:none;">The Modern Development of Faraday's Conception of Electricity</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(43).pdf" style="text-decoration:none;">The nature of the chemical bond. Application of results obtained from the quantum mechanics and from a theory of paramagnetic susceptibility to the structure of molecules</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(44).pdf" style="text-decoration:none;">Chemical Analysis by Observation of Spectra</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(45).pdf" style="text-decoration:none;">Molecule Formation as a Question of Atomic Structure</a></li> 
+   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(46).pdf" style="text-decoration:none;">On the Size of the Air Molecules</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(47).pdf" style="text-decoration:none;">On The Relations Which Exist Between The Atomic Formulas Of Organic Compounds And The Rotatory Power Of Their Solutions</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(48).pdf" style="text-decoration:none;">Ostwald's dilution law</a></li> 
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(49).pdf" style="text-decoration:none;">On the Relation between the Specific Gravities of Bodies in their Gaseous State and the Weights of their Atoms</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Chemical-Sciences/blob/master/mpf(50).pdf" style="text-decoration:none;">On the Electricity excited by the mere Contact of conducting Substances of different Kinds</a></li> 
+  
+  
+  
+  
+  
+  
+  
 
   </ul>
